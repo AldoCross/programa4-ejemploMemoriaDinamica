@@ -1,0 +1,7 @@
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa4-ejemplo memoria Dinamica\programa4-ejemplo memoria Dinamica\obj\Debug\programa4-ejemplo memoria Dinamica.csprojAssemblyReference.cache
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa4-ejemplo memoria Dinamica\programa4-ejemplo memoria Dinamica\obj\Debug\programa4-ejemplo memoria Dinamica.csproj.CoreCompileInputs.cache
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa4-ejemplo memoria Dinamica\programa4-ejemplo memoria Dinamica\obj\Debug\programa4-ejemplo memoria Dinamica.exe
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa4-ejemplo memoria Dinamica\programa4-ejemplo memoria Dinamica\obj\Debug\programa4-ejemplo memoria Dinamica.pdb
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa4-ejemplo memoria Dinamica\programa4-ejemplo memoria Dinamica\bin\Debug\programa4-ejemplo memoria Dinamica.exe.config
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa4-ejemplo memoria Dinamica\programa4-ejemplo memoria Dinamica\bin\Debug\programa4-ejemplo memoria Dinamica.exe
+C:\Users\aldoc\Documents\Tec\Semestre 4\Estructura de Datos\programa4-ejemplo memoria Dinamica\programa4-ejemplo memoria Dinamica\bin\Debug\programa4-ejemplo memoria Dinamica.pdb
